@@ -1,0 +1,15 @@
+{
+  "name": "openaiteste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node train"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "openai": "^3.3.0"
+  }
+}
